@@ -39,9 +39,9 @@ python3 mcp_scraper.py "https://www.jobkorea.co.kr/Search/?stext=python"
 ```
 
 ## 3. AI No-Code Scraper
-**File:** `ai_nocode_scraper.md`
 
-A recipe for using an AI agent (like Claude Desktop or this one) with the Bright Data MCP to extract data without writing scraping code.
+
+A recipe for using an AI agent (like Claude Desktop) with the Bright Data MCP to extract data without writing scraping code.
 
 **Steps:**
 1.  Connect LLM to `@brightdata/mcp`.
